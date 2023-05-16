@@ -13,3 +13,6 @@ def title_word (word):
     title_word = word.title()
 
     return title_word
+
+print(up_letter())
+print(title_word())
